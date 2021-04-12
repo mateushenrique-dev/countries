@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://www.frontendmentor.io/solutions/ip-address-tracker-solution-0SfIoO634)
-- Live Site URL: (ip-tracker-mateushenrique-dev.netlify.app)
+- Solution URL: (https://www.frontendmentor.io/solutions/rest-countries-api-with-color-theme-switcher-ew4W8TCK3)
+- Live Site URL: https://countries-api-mateushenrique-dev.netlify.app)
 
 ### Built with
 
